@@ -2,14 +2,15 @@
   .sidebar {
     width: 16%;
     height: 100vh;
-    background-color: dodgerblue;
+    background-color: #191D2B;
     position: fixed;
+    border-right: 3px solid #2e344e;
   }
 
   .main-content {
     width: 84%;
     margin-left: 16%;
-    background-color: pink;
+    background-color: #10121B;
     min-height: 100vh;
   }
 }
